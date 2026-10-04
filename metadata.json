@@ -1,0 +1,7 @@
+{
+  "name": "CampusAssist AI",
+  "description": "AI-powered student support assistant for engineering college admissions, academics, services, and placements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

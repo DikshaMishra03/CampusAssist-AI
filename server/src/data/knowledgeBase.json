@@ -1,0 +1,282 @@
+[
+  {
+    "id": "adm-001",
+    "title": "B.Tech Admission Process & Eligibility",
+    "category": "Admissions",
+    "tags": ["admission", "eligibility", "btech", "criteria", "cutoff", "entrance"],
+    "summary": "Eligibility criteria and entrance examination requirements for regular 4-year B.Tech programs.",
+    "content": "To be eligible for admission into the 4-year Bachelor of Technology (B.Tech) program at Apex Institute of Engineering & Technology (AIET), candidates must have passed the 10+2 (Higher Secondary) examination with Physics and Mathematics as compulsory subjects, along with Chemistry, Computer Science, or Biotechnology. Candidates must obtain a minimum of 60% aggregate marks (55% for reserved categories) in PCM subjects. Admission is granted based on scores obtained in JEE Main or the State Engineering Entrance Examination (CET), followed by centralized counseling sessions conducted between June and July.",
+    "officialReference": "Admissions Handbook Section 1.2",
+    "lastUpdated": "2026-04-15"
+  },
+  {
+    "id": "adm-002",
+    "title": "Required Documents for Admission",
+    "category": "Admissions",
+    "tags": ["documents", "admission", "certificates", "verification", "required documents", "marksheet"],
+    "summary": "Mandatory certificates and documents needed during document verification and enrollment.",
+    "content": "During the formal admission and physical verification process at the AIET Admissions Desk, students must bring original documents and two sets of self-attested photocopies: 1. Class 10th Board Certificate and Marksheet (Date of Birth proof). 2. Class 12th Board Marksheet and Passing Certificate. 3. JEE Main / State Entrance Examination Scorecard and Admit Card. 4. Seat Allotment Letter issued by the Counseling Authority. 5. Transfer Certificate (TC) and Conduct/Character Certificate from the last attended school. 6. Migration Certificate (original). 7. Category / Caste Certificate (SC/ST/OBC-NCL/EWS) if applicable, issued by a competent authority. 8. Eight recent passport-sized color photographs. 9. Medical Fitness Certificate signed by a registered medical practitioner. 10. Copy of Aadhaar Card for student and parent.",
+    "officialReference": "Admissions Checklist Doc-Ver-2026",
+    "lastUpdated": "2026-04-15"
+  },
+  {
+    "id": "adm-003",
+    "title": "Application Process and Fee Payment",
+    "category": "Admissions",
+    "tags": ["application", "how to apply", "fees", "portal", "deadlines", "payment"],
+    "summary": "Online application procedure, registration fee, and fee payment instructions.",
+    "content": "Prospective applicants can submit their application through the AIET Admissions Portal (admissions.aiet-campus.edu.in). The registration fee is ₹1,200 (non-refundable), payable via Net Banking, UPI, or Credit/Debit cards. After filling out basic academic details and uploading scanned transcripts, applicants receive an Application Reference Number (ARN). Physical counseling takes place at the Central Auditorium (Block A). Annual tuition fee for the B.Tech program is ₹1,15,000 per academic year, payable in two equal semester installments at the start of odd and even semesters.",
+    "officialReference": "Finance & Admissions Circular 2026-03",
+    "lastUpdated": "2026-05-10"
+  },
+  {
+    "id": "adm-004",
+    "title": "Lateral Entry Admissions (Direct 2nd Year)",
+    "category": "Admissions",
+    "tags": ["lateral entry", "diploma", "second year", "3rd semester", "polytechnic"],
+    "summary": "Provisions and eligibility for diploma holders seeking lateral entry into the 3rd semester.",
+    "content": "Diploma holders with a 3-year Polytechnic Diploma in Engineering or B.Sc. degree with Mathematics with a minimum of 60% aggregate marks are eligible for Lateral Entry into the 2nd year (3rd semester) of the B.Tech program. 10% of total sanctioned intake seats are reserved for lateral entry admissions through state counseling. Lateral entry students must submit their diploma marksheet, provisional diploma diploma certificate, and character certificate.",
+    "officialReference": "Academic Regulation 3.4 (Lateral Admissions)",
+    "lastUpdated": "2026-05-15"
+  },
+  {
+    "id": "acad-001",
+    "title": "College Timings and Working Hours",
+    "category": "Academics",
+    "tags": ["timings", "hours", "college timings", "working hours", "schedule", "saturday", "weekend"],
+    "summary": "Regular campus operating hours, lecture schedules, and Saturday activity policy.",
+    "content": "The college operates Monday through Friday from 9:00 AM to 5:00 PM. Regular academic lectures and lab sessions follow an 8-period timetable with a 50-minute lunch recess from 1:00 PM to 1:50 PM. On Saturdays, the campus is open from 9:30 AM to 1:00 PM exclusively for student club activities, remedial tutorial sessions, final-year project lab practice, and sports training; formal classroom lectures are not scheduled on Saturdays. The college remains closed on Sundays and gazetted public holidays.",
+    "officialReference": "Student Academic Handbook Section 2.1",
+    "lastUpdated": "2026-06-01"
+  },
+  {
+    "id": "acad-002",
+    "title": "Attendance Policy and Requirements",
+    "category": "Academics",
+    "tags": ["attendance", "requirement", "minimum attendance", "shortage", "medical certificate", "75%"],
+    "summary": "75% mandatory attendance rule, condonation criteria, and medical leave procedure.",
+    "content": "A minimum of 75% attendance in both theory classes and practical laboratory sessions is mandatory in each registered course to be eligible to appear for the Semester End Examinations (SEE). Condonation of attendance shortage up to 10% (between 65% and 74%) may be granted by the Dean of Academic Affairs solely on valid medical grounds or official participation in university-approved sports/technical competitions. Medical leave certificates must be submitted to the respective Head of Department within 5 working days of resuming classes, accompanied by a parent/guardian signature and hospital prescription.",
+    "officialReference": "AIET Academic Regulations Sec 4.8",
+    "lastUpdated": "2026-05-20"
+  },
+  {
+    "id": "acad-003",
+    "title": "Semester Examination System & Grading",
+    "category": "Academics",
+    "tags": ["exams", "examination", "grading", "cgpa", "sgpa", "midterm", "backlog", "evaluation"],
+    "summary": "Evaluation scheme, Continuous Internal Evaluation (CIE), and Semester End Exams (SEE).",
+    "content": "The evaluation system uses a 10-point Letter Grade Scale. Course assessment is split into: 1. Continuous Internal Evaluation (CIE) carrying 50% weightage (comprising two Mid-Term Tests of 20 marks each, assignments/quizzes of 10 marks). 2. Semester End Examinations (SEE) carrying 50% weightage. To pass a course, a student must secure at least 40% in SEE and 40% aggregate in CIE + SEE combined. Students scoring below 40% receive an 'F' grade (backlog) and must appear for supplementary examinations during the subsequent exam cycle.",
+    "officialReference": "Examination Branch Circular EB-2026-01",
+    "lastUpdated": "2026-06-05"
+  },
+  {
+    "id": "acad-004",
+    "title": "Academic Calendar & Semester Duration",
+    "category": "Academics",
+    "tags": ["calendar", "semester", "odd semester", "even semester", "break", "holidays"],
+    "summary": "Timeline for odd and even semesters, instructional days, and vacation periods.",
+    "content": "Each academic year comprises two semesters of at least 90 instructional days each. The Odd Semester commences in early August and concludes with end-semester exams in December, followed by a two-week winter break. The Even Semester begins in mid-January and concludes in late May, followed by a summer vacation from June to mid-July. Mid-semester exams are typically conducted in the 8th week of each semester.",
+    "officialReference": "Office of Academic Affairs Calendar 2026-27",
+    "lastUpdated": "2026-06-10"
+  },
+  {
+    "id": "dept-001",
+    "title": "Department of Computer Science & Engineering (CSE)",
+    "category": "Departments",
+    "tags": ["cse", "computer science", "software", "ai", "labs", "hod", "programming"],
+    "summary": "CSE department overview, specialized labs, specializations, and HOD contact.",
+    "content": "The Department of Computer Science & Engineering (CSE) offers B.Tech and M.Tech programs with elective specializations in Artificial Intelligence & Machine Learning, Cloud Computing, Cyber Security, and Data Science. Laboratories include the Advanced AI & Deep Learning Lab (equipped with NVIDIA GPU workstations), Software Engineering Lab, High-Performance Computing Cluster, and Networks & Security Lab. Head of Department: Dr. Arvind Ramanathan, Cabin CS-204, Block B. Email: hod.cse@aiet-campus.edu.in.",
+    "officialReference": "Departmental Bulletin - CSE 2026",
+    "lastUpdated": "2026-05-01"
+  },
+  {
+    "id": "dept-002",
+    "title": "Department of Electronics & Communication Engineering (ECE)",
+    "category": "Departments",
+    "tags": ["ece", "electronics", "communication", "vlsi", "embedded", "iot", "hod"],
+    "summary": "ECE department programs, semiconductor/VLSI labs, and HOD contact.",
+    "content": "The Department of Electronics and Communication Engineering (ECE) focuses on VLSI design, Embedded Systems, Internet of Things (IoT), and Wireless Communication. Facilities include the Cadence VLSI Design Suite, Texas Instruments Embedded Systems Lab, RF & Microwave Engineering Lab, and Robotics & Automation Studio. Head of Department: Dr. Sunita Kulkarni, Cabin EC-102, Block C. Email: hod.ece@aiet-campus.edu.in.",
+    "officialReference": "Departmental Bulletin - ECE 2026",
+    "lastUpdated": "2026-05-01"
+  },
+  {
+    "id": "dept-003",
+    "title": "Department of Mechanical Engineering (ME)",
+    "category": "Departments",
+    "tags": ["mechanical", "me", "cad", "cam", "robotics", "thermal", "workshop", "hod"],
+    "summary": "Mechanical engineering facilities, CAD/CAM centre, and HOD details.",
+    "content": "The Department of Mechanical Engineering combines core principles of thermodynamics and manufacturing with modern Mechatronics and Industry 4.0 applications. Facilities include the Siemens PLM CAD/CAM Lab, CNC Machining Center, Fluid Mechanics & Hydraulic Machinery Lab, Thermal Engineering Testing Facility, and the student-run Formula Student race car workshop. Head of Department: Dr. Rajeshwar Sen, Cabin ME-301, Block E. Email: hod.me@aiet-campus.edu.in.",
+    "officialReference": "Departmental Bulletin - ME 2026",
+    "lastUpdated": "2026-05-01"
+  },
+  {
+    "id": "dept-004",
+    "title": "Department of Electrical & Electronics Engineering (EEE)",
+    "category": "Departments",
+    "tags": ["eee", "electrical", "power systems", "renewable energy", "electric vehicles", "hod"],
+    "summary": "EEE curriculum, renewable microgrid laboratory, and faculty contact.",
+    "content": "The Department of Electrical & Electronics Engineering provides cutting-edge training in Power Systems, Renewable Energy Microgrids, Smart Grid technologies, and Electric Vehicle (EV) Powertrains. Facilities include the 50kW Rooftop Solar R&D Station, Power Electronics & Drives Lab, and Control Systems Simulation Suite. Head of Department: Dr. M. G. Nair, Cabin EE-105, Block C. Email: hod.eee@aiet-campus.edu.in.",
+    "officialReference": "Departmental Bulletin - EEE 2026",
+    "lastUpdated": "2026-05-01"
+  },
+  {
+    "id": "dept-005",
+    "title": "Department of Civil Engineering (CE)",
+    "category": "Departments",
+    "tags": ["civil", "ce", "structures", "geotechnical", "surveying", "concrete", "hod"],
+    "summary": "Civil engineering labs, surveying instruments, and departmental office.",
+    "content": "The Department of Civil Engineering trains students in Structural Analysis, Geotechnical Engineering, Transportation Systems, and Environmental Hydraulics. Labs include the Advanced Concrete Testing Facility, Soil Mechanics Lab, Environmental Quality Monitoring Lab, and Total Station & GPS Surveying Suite. Head of Department: Dr. Kavita Deshmukh, Cabin CV-201, Block E. Email: hod.civil@aiet-campus.edu.in.",
+    "officialReference": "Departmental Bulletin - CE 2026",
+    "lastUpdated": "2026-05-01"
+  },
+  {
+    "id": "srv-001",
+    "title": "How to Apply for a Bonafide Certificate",
+    "category": "Student Services",
+    "tags": ["bonafide", "certificate", "student services", "application", "portal", "registrar", "visa", "bank loan"],
+    "summary": "Procedure, documents, and turnaround time for obtaining an official Bonafide Certificate.",
+    "content": "Students can apply for a Bonafide Certificate either online or offline: 1. Online: Log into the AIET Student ERP Portal (student.aiet-campus.edu.in), navigate to 'Student Services' > 'Certificate Requests', select 'Bonafide Certificate', select the purpose (Bank Loan, Passport/Visa application, Bus Pass, Internship), and submit the request. 2. Offline: Fill out Application Form BF-1 available at the Registrar Counter (Admin Block, Ground Floor, Counter 3) and submit it with a copy of your student ID card. Processing time is 2 working days. There is no fee for the first two copies requested in an academic semester; additional copies incur a nominal processing fee of ₹50 each.",
+    "officialReference": "Student Affairs Standard Operating Procedure SOP-SRV-04",
+    "lastUpdated": "2026-06-15"
+  },
+  {
+    "id": "srv-002",
+    "title": "Student ID Card Issuance & Replacement",
+    "category": "Student Services",
+    "tags": ["id card", "lost id", "replacement", "duplicate id", "smart card", "student id"],
+    "summary": "Procedure and nominal fee for replacement of lost, misplaced, or damaged student ID cards.",
+    "content": "All admitted students are issued an RFID-enabled Student Smart Card upon joining. If an ID card is lost, damaged, or stolen, follow this procedure: 1. File a Lost Property Report (or police diary extract / online non-cognizable report). 2. Submit an application form for a Duplicate ID Card at the Student Affairs Counter (Admin Block, Room 108). 3. Pay the replacement fee of ₹200 at the Accounts Cash Counter and attach the receipt. 4. A temporary paper pass is issued immediately, and the newly printed RFID smart card is delivered within 3 working days at the Security Control Desk.",
+    "officialReference": "Campus Security & Identity Policy Sec 3.1",
+    "lastUpdated": "2026-06-12"
+  },
+  {
+    "id": "srv-003",
+    "title": "Hostel Accommodation and Facilities",
+    "category": "Student Services",
+    "tags": ["hostel", "accommodation", "dorm", "mess", "food", "rooms", "warden", "curfew"],
+    "summary": "Hostel allotment, twin/triple rooms, mess menu, Wi-Fi, and resident rules.",
+    "content": "AIET has 5 residential halls: 3 Boys Hostels (Aravali Hall, Nilgiri Hall, Shivalik Hall) and 2 Girls Hostels (Ganga Hall, Yamuna Hall). Rooms are available in twin-sharing and triple-sharing configurations with beds, study tables, wardrobes, and high-speed Wi-Fi (100 Mbps). Hostel fees are ₹42,000 per semester for twin-sharing including 4 meals daily (breakfast, lunch, evening snacks, dinner) managed by the student Mess Committee. Hostels have a 9:00 PM entry curfew for first-year students and 9:30 PM for senior students. 24/7 security guards, CCTV surveillance, and resident medical staff are on duty. Chief Warden Office: Block H, Ground Floor.",
+    "officialReference": "Hostel Code of Conduct 2026-27",
+    "lastUpdated": "2026-05-18"
+  },
+  {
+    "id": "srv-004",
+    "title": "Campus Transportation & College Bus Service",
+    "category": "Student Services",
+    "tags": ["transport", "bus", "bus route", "commute", "pass", "shuttle"],
+    "summary": "College bus network, 18 suburban routes, bus pass application, and timings.",
+    "content": "The college operates a fleet of 25 air-conditioned GPS-tracked buses covering 18 designated routes across the metropolitan city and peripheral suburbs. Morning pick-up starts between 7:15 AM and 7:45 AM depending on the route, arriving on campus at 8:45 AM. Evening buses depart from the main bus bay at 5:15 PM sharp. Students can apply for a semester bus pass at the Transport In-Charge Counter (Admin Block Counter 6). Bus charges vary from ₹14,000 to ₹18,000 per semester depending on zone distance. Emergency shuttle vans run to the nearest metro station every 30 minutes between 5:30 PM and 8:00 PM.",
+    "officialReference": "Transport Department Notification TD-2026",
+    "lastUpdated": "2026-05-22"
+  },
+  {
+    "id": "srv-005",
+    "title": "Scholarships & Financial Assistance",
+    "category": "Student Services",
+    "tags": ["scholarship", "financial aid", "merit", "fee waiver", "concession", "nsp", "tuition discount"],
+    "summary": "Merit scholarships, need-based fee waivers, and government scholarship support.",
+    "content": "AIET provides several financial aid options: 1. Chairman's Merit Scholarship: 50% tuition waiver for the top 5% academic performers in each engineering branch per semester. 2. Need-Based Financial Concession: Up to 35% tuition waiver for students whose verified family annual income is below ₹3,50,000. 3. Sports & Cultural Excellence Award: 25% waiver for national/state level medalists. 4. Government Scholarship Facilitation: The Student Affairs Scholarship Desk assists eligible SC/ST/OBC and minority students in applying for Central National Scholarship Portal (NSP) and State Post-Matric schemes. Inquire at Counter 5, Admin Block.",
+    "officialReference": "Scholarship Guidelines AIET-SCH-2026",
+    "lastUpdated": "2026-06-02"
+  },
+  {
+    "id": "plce-001",
+    "title": "Training & Placement Cell (T&P) Overview",
+    "category": "Placements",
+    "tags": ["placement", "t&p", "career", "jobs", "recruitment", "contact placement", "campus placement"],
+    "summary": "Role of the Training & Placement Cell, location, head of placement, and contact.",
+    "content": "The Training & Placement Cell (T&P) at AIET connects students with over 150 leading technology, automotive, manufacturing, and consulting employers. The cell organizes on-campus recruitment drives, technical workshops, and summer internships. Placement Cell is situated at Career Hub, 2nd Floor, Block D. Head of Training & Placements: Prof. Sandeep Verma. Office Phone: +91 11 2890 4022. Official Email: placement@aiet-campus.edu.in. Students can visit the office Monday through Friday between 2:00 PM and 4:30 PM for career counseling.",
+    "officialReference": "T&P Information Brochure 2026",
+    "lastUpdated": "2026-05-25"
+  },
+  {
+    "id": "plce-002",
+    "title": "Campus Placement Eligibility & Policies",
+    "category": "Placements",
+    "tags": ["eligibility", "cgpa", "criteria", "placement rules", "backlog", "dream company"],
+    "summary": "Minimum 6.5 CGPA requirement, zero active backlog rule, and job offer classification.",
+    "content": "To participate in campus recruitment drives, students must fulfill the following criteria: 1. Maintain a minimum cumulative grade point average (CGPA) of 6.5 or above across all completed semesters (individual companies may prescribe higher cutoffs such as 7.0 or 7.5). 2. Have zero active backlogs at the time of the recruitment drive (cleared backlogs are permitted). 3. Maintain at least 80% attendance in pre-placement training modules. 4. One-Student-One-Job Rule: Once a student receives an offer, they are eligible only for 'Dream Companies' offering at least 1.5x the initial CTC.",
+    "officialReference": "Placement Cell Policy Document P-2026",
+    "lastUpdated": "2026-05-25"
+  },
+  {
+    "id": "plce-003",
+    "title": "Pre-Placement Training & Skill Development",
+    "category": "Placements",
+    "tags": ["training", "aptitude", "mock interview", "coding bootcamp", "dsa", "soft skills"],
+    "summary": "Rigorous training roadmap including quantitative aptitude, coding bootcamps, and mock interviews.",
+    "content": "AIET conducts structured Pre-Placement Training beginning in the 5th semester: 1. Quantitative Aptitude and Logical Reasoning (60 hours). 2. Data Structures & Algorithms (DSA) and Competitive Coding Bootcamps (80 hours). 3. Domain Specific Technical Refresher courses. 4. Verbal Ability & Business English communication. 5. Two rounds of 1-on-1 Mock Technical & HR Interviews conducted by visiting industry alumni and HR consultants. Attendance in these modules is tracked and mandatory for campus placement registration.",
+    "officialReference": "T&P Skill Curriculum 2026",
+    "lastUpdated": "2026-04-30"
+  },
+  {
+    "id": "plce-004",
+    "title": "Summer Internships & Industry Collaborations",
+    "category": "Placements",
+    "tags": ["internship", "summer internship", "industry", "stipend", "credits"],
+    "summary": "Mandatory 8-week summer internship requirements and academic credit evaluation.",
+    "content": "All undergraduate engineering students are required to complete an 8-week industrial or research internship at the end of their 6th semester. The internship carries 3 academic credits. Students can secure internships via on-campus recruitment drives or off-campus through verified organizations with approval from their departmental internship coordinator. At the start of the 7th semester, students must submit an Internship Report and deliver a seminar evaluation to a departmental panel.",
+    "officialReference": "Internship Manual AIET-INT-2026",
+    "lastUpdated": "2026-05-12"
+  },
+  {
+    "id": "fac-001",
+    "title": "Central Library & Knowledge Resource Centre",
+    "category": "Campus",
+    "tags": ["library", "books", "journals", "reading room", "digital library", "borrow", "timings"],
+    "summary": "Central Library collection, operating hours, borrowing quota, and online databases.",
+    "content": "The Central Library spans four floors in Block A and houses over 65,000 volumes, 120 print journals, and digital subscriptions to IEEE Xplore, ScienceDirect, ACM Digital Library, and Springer. Operating hours: Monday through Saturday 8:00 AM to 8:00 PM; extended to 10:00 PM during mid-term and semester-end exam periods. Sunday reading hall is open from 10:00 AM to 4:00 PM. Undergraduate students can borrow up to 4 books for 14 days using their smart ID card, with online renewal via the Library Web OPAC. A fine of ₹5 per day applies for overdue books.",
+    "officialReference": "Library Handbook 2026",
+    "lastUpdated": "2026-06-08"
+  },
+  {
+    "id": "fac-002",
+    "title": "Cafeteria, Food Courts & Kiosks",
+    "category": "Campus",
+    "tags": ["cafeteria", "canteen", "food", "meals", "coffee", "lunch", "snacks"],
+    "summary": "Campus dining options, hygienic multi-cuisine cafeteria, Nescafe hub, and timings.",
+    "content": "The Central Campus Cafeteria (Ground Floor, Student Activity Centre) seats 500 students and serves hygienic North Indian, South Indian, Continental, and Chinese cuisine with vegetarian and non-vegetarian selections. Subsidized lunch thalis are served between 12:00 PM and 2:30 PM. The cafeteria operates daily from 7:30 AM to 9:30 PM. Additional kiosks across campus include the Nescafe Corner (Block B Courtyard), Cafe Coffee Day Express, Fresh Fruit Juice Bar, and Amul Dairy outlet.",
+    "officialReference": "Campus Services Notice Board",
+    "lastUpdated": "2026-06-05"
+  },
+  {
+    "id": "fac-003",
+    "title": "Sports Complex & Recreation Facilities",
+    "category": "Campus",
+    "tags": ["sports", "gym", "cricket", "football", "badminton", "fitness", "athletics"],
+    "summary": "Outdoor sports grounds, indoor badminton courts, gymnasium, and coach guidance.",
+    "content": "AIET boasts extensive sports facilities: 1. A 400-meter standard athletic running track and full-size football/cricket turf with floodlights. 2. Two outdoor synthetic basketball and volleyball courts. 3. Air-conditioned Indoor Sports Complex featuring four wooden badminton courts, table tennis tables, and chess rooms. 4. A modern gymnasium equipped with cardio machines and free weights, open 6:00 AM to 8:30 AM and 4:30 PM to 8:00 PM under certified fitness instructors. Physical Education Department: Gym Complex, Room 101.",
+    "officialReference": "Sports Council Regulation 2026",
+    "lastUpdated": "2026-05-28"
+  },
+  {
+    "id": "fac-004",
+    "title": "Student Clubs, Technical Societies & Fests",
+    "category": "Campus",
+    "tags": ["clubs", "societies", "technovate", "culrav", "fest", "hackathon", "events", "robotics"],
+    "summary": "Active campus clubs, student chapters (IEEE, ACM, GDSC), and annual flagship festivals.",
+    "content": "Student life at AIET is driven by over 20 registered student organizations: Technical clubs include RoboTech (Robotics & Drones), ByteCraft (Coding & Open Source), AeroClub, and Google Developer Student Club (GDSC). Cultural clubs include Symphony (Music Society), Mudra (Dance Troupe), and Thespians (Dramatic Society). Annual Flagship Events: 1. 'Technovate' (National Technical Fest held in February featuring hackathons, bot wars, and paper presentations). 2. 'Culrav' (3-day Annual Cultural Fest held in October with celebrity concerts and fashion shows). 3. 'Sportivo' (Annual inter-collegiate sports championship in March).",
+    "officialReference": "Student Activity Council Registry 2026",
+    "lastUpdated": "2026-05-30"
+  },
+  {
+    "id": "fac-005",
+    "title": "Health Center & Emergency Medical Services",
+    "category": "Campus",
+    "tags": ["medical", "health", "doctor", "emergency", "ambulance", "first aid", "clinic"],
+    "summary": "24/7 campus health clinic, full-time doctors, emergency ambulance, and pharmacy.",
+    "content": "The Campus Health Center is located on the Ground Floor of the Residential Wing (Block H). It provides 24/7 first aid and medical emergency support to all students and staff. A full-time General Physician is available on weekdays from 9:00 AM to 5:00 PM, and resident nurses are on duty 24/7. Essential medications are dispensed free of cost for common ailments. The college maintains an emergency ambulance on campus connected with City Apex Multi-Specialty Hospital (3 km away). Emergency extension: 108 / +91 11 2890 4099.",
+    "officialReference": "Health and Safety Guidelines AIET-MED-2026",
+    "lastUpdated": "2026-06-01"
+  },
+  {
+    "id": "cnt-001",
+    "title": "Official Campus Directory & Contact Information",
+    "category": "Contact",
+    "tags": ["contact", "phone", "email", "directory", "registrar", "helpdesk", "office", "emergency"],
+    "summary": "Key institutional contacts, email addresses, phone extensions, and office locations.",
+    "content": "Apex Institute of Engineering & Technology (AIET) Campus Directory:\n- General Reception / EPABX: +91 11 2890 4000 | info@aiet-campus.edu.in | Main Gate Admin Block\n- Admissions Helpdesk: +91 11 2890 4010 | admissions@aiet-campus.edu.in | Block A, Ground Floor\n- Office of the Registrar: +91 11 2890 4015 | registrar@aiet-campus.edu.in | Block A, Room 102\n- Dean of Academic Affairs: dean.academics@aiet-campus.edu.in | Block A, Room 201\n- Examination Branch: +91 11 2890 4018 | examdesk@aiet-campus.edu.in | Counter 4, Admin Block\n- Training & Placement Cell: +91 11 2890 4022 | placement@aiet-campus.edu.in | Block D, Room 201\n- Chief Hostel Warden: +91 11 2890 4055 | warden@aiet-campus.edu.in | Block H, Room G-02\n- Student Affairs & Scholarship Desk: studentaffairs@aiet-campus.edu.in | Counter 5\n- Campus Security & Lost & Found: +91 11 2890 4090 | Security Control Post 1\n- Emergency Health Center: +91 11 2890 4099 / Ext. 108",
+    "officialReference": "Official College Directory 2026",
+    "lastUpdated": "2026-06-15"
+  }
+]
